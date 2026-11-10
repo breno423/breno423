@@ -56,8 +56,8 @@ Gosto de construir aplicações web e levá-las até o deploy: da interface à i
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=breno423&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno423&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=breno423&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno423&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Linguagens mais usadas" />
 </p>
 
 ---
