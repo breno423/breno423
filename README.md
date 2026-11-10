@@ -12,6 +12,10 @@
   <a href="mailto:brenomarqber@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
+  <a href="https://github.com/breno423?tab=followers">
+    <img src="https://img.shields.io/github/followers/breno423?style=for-the-badge&logo=github&color=3178C6" alt="Seguidores">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=breno423&label=Visualiza%C3%A7%C3%B5es&color=3178C6&style=for-the-badge" alt="Visualizações do perfil">
 </p>
 
 ---
@@ -26,6 +30,8 @@ Gosto de construir aplicações web e levá-las até o deploy: da interface à i
 - 🌱 Estudando arquitetura serverless e infraestrutura como código
 - 💬 Pergunte-me sobre **React, TypeScript e deploy de aplicações web**
 - 🎯 Aberto a oportunidades em **desenvolvimento web e cloud**
+
+---
 
 ## 🛠️ Tecnologias
 
@@ -43,21 +49,37 @@ Gosto de construir aplicações web e levá-las até o deploy: da interface à i
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+---
+
 ## ☁️ Foco em nuvem
 
 | Área | O que estou estudando / praticando |
 | --- | --- |
-| Hospedagem | S3 + CloudFront com HTTPS e domínio próprio |
-| Serverless | Lambda, API Gateway, DynamoDB |
-| Segurança | IAM, princípio do menor privilégio |
-| Automação | CI/CD com GitHub Actions |
+| 🌐 Hospedagem | S3 + CloudFront com HTTPS e domínio próprio |
+| ⚡ Serverless | Lambda, API Gateway, DynamoDB |
+| 🔐 Segurança | IAM, princípio do menor privilégio |
+| 🔁 Automação | CI/CD com GitHub Actions |
 
+---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=breno423&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno423&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Linguagens mais usadas" />
+  <img src="https://raw.githubusercontent.com/breno423/breno423/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Detalhes do perfil" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://raw.githubusercontent.com/breno423/breno423/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens com mais commits" />
+  <img height="180" src="https://raw.githubusercontent.com/breno423/breno423/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositórios por linguagem" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://raw.githubusercontent.com/breno423/breno423/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Commits, PRs e issues" />
+  <img height="180" src="https://raw.githubusercontent.com/breno423/breno423/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horário mais produtivo" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=breno423&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 </p>
 
 ---
